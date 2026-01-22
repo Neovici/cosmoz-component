@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/Neovici/cosmoz-component/compare/v1.0.0...v1.1.0) (2026-01-22)
+
+### Features
+
+* test npm publishing ([bb6202d](https://github.com/Neovici/cosmoz-component/commit/bb6202d43fc447bf6b4a439dfcba29c020290aec))
+
 ## 1.0.0 (2026-01-22)
 
 ### Features
