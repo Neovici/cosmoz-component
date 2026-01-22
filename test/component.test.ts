@@ -1,4 +1,4 @@
-import { assert, expect, fixture } from '@open-wc/testing';
+import { assert, expect, fixture, nextFrame } from '@open-wc/testing';
 import { html } from 'lit-html';
 import '../src/component';
 
@@ -26,6 +26,7 @@ describe('cosmoz-component', () => {
 		const el = await fixture(html`<cosmoz-component></cosmoz-component>`);
 		const button = el.shadowRoot?.querySelector('button');
 		button?.click();
+		await nextFrame();
 		const text = el.shadowRoot?.textContent;
 		expect(text).to.include('Count: 1');
 	});
