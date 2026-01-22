@@ -1,1 +1,1 @@
-export { CosmozComponent, 'cosmoz-component' } from './component';
+export { CosmozComponent } from './component';
