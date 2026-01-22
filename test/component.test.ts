@@ -1,6 +1,6 @@
 import { fixture, assert, expect } from '@open-wc/testing';
 import { html } from 'lit-html';
-import './component';
+import '../src/component';
 
 describe('cosmoz-component', () => {
   it('is defined', () => {

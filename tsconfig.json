@@ -9,5 +9,5 @@
     "allowJs": true,
     "baseUrl": "."
   },
-  "exclude": ["node_modules", "dist", "coverage", "storybook-static", "stories", "src/**/*.test.ts"]
+  "exclude": ["node_modules", "dist", "coverage", "storybook-static", "stories"]
 }
