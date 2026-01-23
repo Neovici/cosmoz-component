@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/Neovici/cosmoz-component/compare/v1.1.0...v1.2.0) (2026-01-23)
+
+### Features
+
+* **dependabot:** add configuration ([95a4c4a](https://github.com/Neovici/cosmoz-component/commit/95a4c4a881adfbdc802ef7c3cb80d910457ac531))
+
 ## [1.1.0](https://github.com/Neovici/cosmoz-component/compare/v1.0.0...v1.1.0) (2026-01-22)
 
 ### Features
