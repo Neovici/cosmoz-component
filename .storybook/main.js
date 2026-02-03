@@ -1,5 +1,11 @@
 export default {
-  stories: ['../stories/**/*.stories.@(js|jsx|ts|tsx|mdx)'],
-  addons: [],
-  framework: '@storybook/web-components-vite',
+	stories: ['../stories/**/*.stories.@(js|jsx|mjs|ts|tsx)'],
+	addons: ['@storybook/addon-docs'],
+	framework: {
+		name: '@storybook/web-components-vite',
+		options: {},
+	},
+	docs: {
+		autodocs: 'tag',
+	},
 };
