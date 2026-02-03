@@ -1,3 +1,9 @@
+## [1.2.1](https://github.com/Neovici/cosmoz-component/compare/v1.2.0...v1.2.1) (2026-02-03)
+
+### Bug Fixes
+
+* update storybook defaults and TypeScript config ([#9](https://github.com/Neovici/cosmoz-component/issues/9)) ([87cc258](https://github.com/Neovici/cosmoz-component/commit/87cc258b5e9f2d43b1718cfe6b7d3903f2d80bcf))
+
 ## [1.2.0](https://github.com/Neovici/cosmoz-component/compare/v1.1.0...v1.2.0) (2026-01-23)
 
 ### Features
