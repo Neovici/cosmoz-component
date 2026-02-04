@@ -5,6 +5,7 @@ export default {
 		docs: {
 			source: {
 				excludeDecorators: true,
+				type: 'code',
 				transform: (source) => {
 					const match = source.match(/html`([\s\S]*?)`/u);
 					return match?.[1]?.trim() ?? source;
