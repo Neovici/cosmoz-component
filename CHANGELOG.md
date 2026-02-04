@@ -1,3 +1,9 @@
+## [1.3.0](https://github.com/Neovici/cosmoz-component/compare/v1.2.1...v1.3.0) (2026-02-04)
+
+### Features
+
+* replace WTR with Storybook interaction tests via Vitest addon ([#10](https://github.com/Neovici/cosmoz-component/issues/10)) ([3af42cc](https://github.com/Neovici/cosmoz-component/commit/3af42ccba5e9b9cf0712fbeac1c8ddf0a8801b3d))
+
 ## [1.2.1](https://github.com/Neovici/cosmoz-component/compare/v1.2.0...v1.2.1) (2026-02-03)
 
 ### Bug Fixes
