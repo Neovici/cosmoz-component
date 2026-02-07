@@ -47,7 +47,6 @@ Fast tests that run in jsdom. Use for testing:
 
 - Utility functions
 - Pure logic
-- Hooks (using `renderHook` from `@neovici/testing`)
 
 ```typescript
 // test/example.test.ts
