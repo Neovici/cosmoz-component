@@ -8,7 +8,18 @@ const dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
 	test: {
+		// Two test projects: unit (fast, jsdom) and storybook (browser-based)
 		projects: [
+			// Unit tests: pure logic, utilities, hooks
+			{
+				extends: true,
+				test: {
+					name: 'unit',
+					include: ['test/**/*.test.ts', 'src/**/*.test.ts'],
+					environment: 'jsdom',
+				},
+			},
+			// Storybook tests: component rendering and interactions
 			{
 				extends: true,
 				plugins: [
