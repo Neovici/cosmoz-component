@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/Neovici/cosmoz-component/compare/v1.3.0...v1.4.0) (2026-02-07)
+
+### Features
+
+* add unit test project and update Vitest best practices ([#11](https://github.com/Neovici/cosmoz-component/issues/11)) ([d9f16f1](https://github.com/Neovici/cosmoz-component/commit/d9f16f13ad93a276f3d67dd456cd6884e96bdd9c))
+
 ## [1.3.0](https://github.com/Neovici/cosmoz-component/compare/v1.2.1...v1.3.0) (2026-02-04)
 
 ### Features
