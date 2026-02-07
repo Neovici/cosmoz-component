@@ -27,7 +27,7 @@ Import the component:
 import '@neovici/cosmoz-component';
 
 // Use in HTML
-<cosmoz-component greeting="Hi"></cosmoz-component>;
+<cosmoz-component greeting="Hi"></cosmoz-component>
 ```
 
 ## Development
