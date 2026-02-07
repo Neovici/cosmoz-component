@@ -25,9 +25,12 @@ Import the component:
 
 ```javascript
 import '@neovici/cosmoz-component';
+```
 
-// Use in HTML
-<cosmoz-component greeting="Hi"></cosmoz-component>;
+Use in HTML:
+
+```html
+<cosmoz-component greeting="Hi"></cosmoz-component>
 ```
 
 ## Development
