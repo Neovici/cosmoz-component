@@ -27,7 +27,7 @@ Import the component:
 import '@neovici/cosmoz-component';
 
 // Use in HTML
-<cosmoz-component greeting="Hi"></cosmoz-component>
+<cosmoz-component greeting="Hi"></cosmoz-component>;
 ```
 
 ## Development
@@ -47,6 +47,9 @@ Fast tests that run in jsdom. Use for testing:
 
 - Utility functions
 - Pure logic
+- Data transformations
+
+**Note**: Unit tests cannot import Pion/Lit components or use `renderHook` from `@neovici/testing` due to ESM resolution issues in jsdom. For testing hooks and components, use Storybook interaction tests instead.
 
 ```typescript
 // test/example.test.ts
