@@ -1,3 +1,9 @@
+## [1.5.0](https://github.com/Neovici/cosmoz-component/compare/v1.4.0...v1.5.0) (2026-04-01)
+
+### Features
+
+* **ci:** add automerge workflow for Dependabot PRs ([#15](https://github.com/Neovici/cosmoz-component/issues/15)) ([9301366](https://github.com/Neovici/cosmoz-component/commit/9301366635ca1e83cbdeb593c924717e55785838))
+
 ## [1.4.0](https://github.com/Neovici/cosmoz-component/compare/v1.3.0...v1.4.0) (2026-02-07)
 
 ### Features
