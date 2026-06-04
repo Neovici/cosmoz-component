@@ -94,4 +94,4 @@ Vitest's `expect` requires an active test context and crashes when stories run i
 
 ## Publishing
 
-This package uses Semantic Release for automated versioning and publishing. Commits are analyzed and releases are created automatically based on Conventional Commits.
+This package uses Changesets for automated versioning and publishing. Add a changeset with `npm run changeset`, then open a release PR to publish.
